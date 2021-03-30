@@ -1,0 +1,6 @@
+D:\Visual Studio Project\Desktop_Project\26032021Task3\bin\Debug\26032021Task3.exe.config
+D:\Visual Studio Project\Desktop_Project\26032021Task3\bin\Debug\26032021Task3.exe
+D:\Visual Studio Project\Desktop_Project\26032021Task3\bin\Debug\26032021Task3.pdb
+D:\Visual Studio Project\Desktop_Project\26032021Task3\obj\Debug\26032021Task3.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Desktop_Project\26032021Task3\obj\Debug\26032021Task3.exe
+D:\Visual Studio Project\Desktop_Project\26032021Task3\obj\Debug\26032021Task3.pdb

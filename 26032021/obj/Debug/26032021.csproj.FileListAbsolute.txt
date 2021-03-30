@@ -1,0 +1,7 @@
+D:\Visual Studio Project\Desktop_Project\26032021\obj\Debug\26032021.csprojAssemblyReference.cache
+D:\Visual Studio Project\Desktop_Project\26032021\obj\Debug\26032021.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\Desktop_Project\26032021\bin\Debug\26032021.exe.config
+D:\Visual Studio Project\Desktop_Project\26032021\bin\Debug\26032021.exe
+D:\Visual Studio Project\Desktop_Project\26032021\bin\Debug\26032021.pdb
+D:\Visual Studio Project\Desktop_Project\26032021\obj\Debug\26032021.exe
+D:\Visual Studio Project\Desktop_Project\26032021\obj\Debug\26032021.pdb
